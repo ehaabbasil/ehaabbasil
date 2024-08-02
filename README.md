@@ -10,6 +10,6 @@ About me:
 - :books: Believer of Self-Improvement 
 - :coffee: Coffee Addict
 - :thought_balloon: Interests: Machine Learning, Software Engineering, Cloud Computing, Network & Security and IoT. 
-- :key: Consistency is the Key, the goal is to be better than yesterday :smiley:
+- :key: Consistency is the Key, the goal is to be better than yesterday 
 - :bird: @ehaabbasil
-- 📫 How to reach me: me@ehaabbasil.com
+- 📫 How to reach me: ehaabbasil786@gmail.com

@@ -8,5 +8,5 @@ About me:
 - :mortar_board: Bachelor's of Science in Computer Science from University of Maryland Class of '22
 - :bulb:    Interests: Machine Learning, Software Engineering, Cloud Computing, HCI, Network & Security and IoT.
 
-- Email : ehaab@umd.edu
-- Email : ehaab@wardahtech.com
+- EDU Email : ehaab@umd.edu
+- Business Email : ehaab@wardahtech.com
